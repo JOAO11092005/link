@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #dde4dd;
+}
+main{
+    background-color: white;
+    text-align: center;
+    margin-top: 300px;
+    padding: 100px;
+    width: 300px;
+    transform: translateX(750px);
+    border-radius: 20px;
+}
+main a img{
+    width: 200px;
+    height: 100px;
+    /* border: 2px solid ; */
+    /* border-color: blue blue white white ; */
+    border-radius: 3px;
+    padding: 3px;
+}
+.figma-site{
+    margin-top: 50px;
+    
+    
+}
+.figma-site  a{
+    text-decoration: none;
+    padding: 15px;
+}
+.figma-site  a:hover{
+    text-decoration: none;
+    background-color: #dde4dd;
+}
+footer p{
+    margin-top: 50px;
+    position: relative;
+}
